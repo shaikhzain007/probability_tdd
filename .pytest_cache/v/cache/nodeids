@@ -1,0 +1,5 @@
+[
+  "test/test_coin.py::test_coin",
+  "test/test_coin.py::test_flip",
+  "test/test_coin.py::test_fair_coin"
+]
